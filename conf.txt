@@ -6,6 +6,10 @@ proxypool2 pool-eu.ethosdistro.com:5001
 flags --cl-global-work 8192 --farm-recheck 200
 globalfan 85
 
+globalcore 1150
+globalmem 2200
+globalpowertune 4
+
 # ethOS Pool: ethosdistro.com/pool
 # QUICK START GUIDE: ethosdistro.com/Q
 # HOSTING YOUR OWN REMOTE CONFIG WITH CONFIGMAKER.COM: ethosdistro.com/kb/#configmaker
