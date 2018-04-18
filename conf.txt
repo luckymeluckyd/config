@@ -8,7 +8,7 @@ globalfan 85
 
 globalcore 1150
 globalmem 2200
-globalpowertune 4
+globalpowertune 3
 
 # ethOS Pool: ethosdistro.com/pool
 # QUICK START GUIDE: ethosdistro.com/Q
